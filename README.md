@@ -10,7 +10,7 @@ my hobbies : make a gaming videos and play LoL.
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   
-  <a href="https://discordapp.com/users/[DISCORD_USER_ID]" target="_blank">
+  <a href="https://discordapp.com/users/emyin" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
   
