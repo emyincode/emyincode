@@ -6,7 +6,7 @@ my hobbies : make a gaming videos and play LoL.
 ### İletişim:
 
 <p align="center">
-  <a href="https://www.instagram.com/[INSTAGRAM_USERNAME]" target="_blank">
+  <a href="https://www.instagram.com/emyindev" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   
